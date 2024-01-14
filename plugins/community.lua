@@ -11,6 +11,7 @@ return {
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
   { import = "astrocommunity.motion.marks-nvim" },
+  { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.pack.ansible" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.docker" },
